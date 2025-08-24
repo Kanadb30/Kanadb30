@@ -1,41 +1,48 @@
-# 👋 Hi, I'm Kanad Bajpai  
-**Learner | AI/ML & Cybersecurity Enthusiast**  
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=1500&pause=600&color=30A0F0&width=550&center=true&lines=Hi%2C+I'm+Kanad+Bajpai;AI%2FML+Enthusiast;Innovator+%26+Problem+Solver" alt="Typing SVG" />
+</div>
 
-Welcome to my GitHub! I'm passionate about crafting innovative solutions through code and exploring the fields of AI/ML and cybersecurity.  
-
----
-
-## 🧑‍💻 About Me  
-I'm a student immersed in the world of tech, with a strong foundation in **C**, **Java**, **Data Structures & Algorithms (DSA)**, **Object-Oriented Programming (OOP)**, and **Frontend Development**. Currently, I'm diving deep into **Generative AI** to push the boundaries of what's possible with technology. My interests lie at the intersection of software development, data science, and secure systems.  
-
-- 🌱 **Currently Learning**: Generative AI and advanced cybersecurity concepts.  
-- 💡 **Interests**: Building efficient algorithms, creating user-friendly web interfaces, and exploring AI-driven solutions.  
-- 🎯 **Goal**: To contribute to impactful projects that blend innovation with security.  
+<div align="center">
+  <a href="https://www.linkedin.com/in/kanadbajpai/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://www.instagram.com/kanad1902_b/?next=%2F"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
+</div>
 
 ---
 
-## 🛠️ Tech Stack  
-Here are the tools and technologies I work with:  
+## 👨‍💻 About Me
 
-![C](https://img.shields.io/badge/-C-00599C?style=flat-square&logo=c&logoColor=white)
-![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
-![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+I'm a technology enthusiast crafting innovative solutions through code. My journey is fueled by a passion for exploring the depths of AI/ML and the intricacies of Cybersecurity.
 
----
-
-## 📊 GitHub Stats  
-![Kanad's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Kanadb30&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Kanadb30&layout=compact&theme=radical)
+- 🧠 I'm currently diving deep into **Generative AI** and advanced security protocols.
+- 💡 I love building efficient algorithms, creating intuitive user experiences, and architecting secure systems.
+- 🎯 **Goal**: To contribute to impactful projects that blend cutting-edge technology with robust security.
 
 ---
 
-## 🌐 Connect with Me  
-Let's stay in touch!  
+## 🛠️ My Tech Stack
 
-[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>](https://www.linkedin.com/in/kanadbajpai/)  
-[<img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram"/>](https://www.instagram.com/kanad1902_b/?next=%2F)  
+### Languages & Core Technologies
+<p align="left">
+  <img src="https://img.shields.io/badge/-C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C"/>
+  <img src="https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java"/>
+  <img src="https://img.shields.io/badge/-Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash"/>
+</p>
+
+### Frontend Development
+<p align="left">
+  <img src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
+  <img src="https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
+</p>
 
 ---
 
-## ✨ *"Code is like humor: when you have to explain it, it’s bad."* – Cory House
+## 📊 My GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Kanadb30&show_icons=true&theme=tokyonight" alt="Kanad's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kanadb30&layout=compact&theme=tokyonight" alt="Top Languages" />
+</p>
+
+---
+
+> *"The best way to predict the future is to invent it."* – Alan Kay
